@@ -7,6 +7,7 @@
 7. In the face of ambiguity, refuse the temptation to guess
 8. If the implementation is hard to explain, it's a bad idea.
 9. If the implementation is easy to explain, it may be a good idea.
+10. Done is better than perfect
 
 <!--
 **vitorarrais/vitorarrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
