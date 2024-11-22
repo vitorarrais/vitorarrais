@@ -1,13 +1,15 @@
+**These are the software engineering principles I resonate with:**
+
 1. Individuals and interactions over processes and tools.
 2. Working software over comprehensive documentation.
 3. Working software is the primary measure of progress.
 4. Simple is better than complex.
 5. Complex is better than complicated.
 6. Practicality beats purity.
-7. In the face of ambiguity, refuse the temptation to guess
-8. If the implementation is hard to explain, it's a bad idea.
-9. If the implementation is easy to explain, it may be a good idea.
-10. Done is better than perfect
+7. Done is better than perfect.
+8. In the face of ambiguity, refuse the temptation to guess.
+9. If the implementation is hard to explain, it's a bad idea.
+10. If the implementation is easy to explain, it may be a good idea.
 
 <!--
 **vitorarrais/vitorarrais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
